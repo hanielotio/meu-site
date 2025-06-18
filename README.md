@@ -2,6 +2,12 @@
 
 Este projeto é um exemplo simples usando [Next.js](https://nextjs.org/) e Tailwind CSS.
 
+Recomenda-se utilizar **Node.js 20** ou superior. Se ainda não tiver o `pnpm` instalado, instale-o com:
+
+```bash
+npm install -g pnpm
+```
+
 ## Configuração
 
 1. Instale as dependências:
